@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@prisma/client": "^3.14.0",
+    "@swc/core": "^1.2.186",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
